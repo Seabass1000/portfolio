@@ -3,6 +3,8 @@ title: "About"
 featured_image: "/images/abstract.jpg"
 description: "Passionate computer scientist, analyst, gardener, and product manager, posting about some of my interests."
 ---
-!["Hayden Quilty, ca 2020"](Hayden_headshot.jpg)
+!["Sebastian Ruiz, ca 2023"](Sebastian_headshot.jpg)
 
-_Hayden Quilty_ is a Senior Data Analyst at Root where he identifies high value underwriting opportunities and ensures they are delivered at a FinTech startup company. Hayden is currently pursuing new opportunities in product management and analytics. He graduated with a Bachelors of Science in Biochemistry from Virginia Tech in 2021. Upon graduating, he recognized that he was more driven by the data and the technology behind biochemistry than the process of doing the science itself. He spent the following months learning SQL, data analysis, and machine learning skills and landed a job as a machine learning model developer within the auto insurance space later that summer. 
+_Sebastian Ruiz_ is a dedicated Data Scientist and Consultant. At Immigration Law Human Rights (ILHR) in Washington DC, he has made significant strides in utilizing AI and data analytics to improve legal assistance and client engagement. His recent work includes engineering an AI Chatbot for legal advice and implementing a secure database system for client information, enhancing data governance and increasing client acquisition through strategic analysis. Sebastian's tenure at McMaster-Carr on the operations management team saw him streamline operational efficiencies and develop tools for optimal resource allocation.
+
+Currently, Sebastian is pursuing a Master of Information and Data Science at UC Berkeley, balancing rigorous academic endeavors with professional excellence. With a BS in Data Science from William & Mary, his educational background and work experience reflect a strong foundation in algorithms, data analysis, and a commitment to continuous learning and development in the field of data science.
