@@ -1,7 +1,7 @@
 ---
 title: "About"
 featured_image: "/images/abstract.jpg"
-description: "Passionate computer scientist, analyst, gardener, and product manager, posting about some of my interests."
+description: "Passionate analyst, programmer, human development and data enthusiast, posting about some of my interests."
 ---
 !["Sebastian Ruiz, ca 2023"](Sebastian_headshot.jpg)
 
