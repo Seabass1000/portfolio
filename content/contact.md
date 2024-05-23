@@ -8,6 +8,6 @@ menu: main
 
 ---
 
-If you are interested in finding out more about my work here are some of my contact details:
+If you are interested in finding out more about my work:
 - Email: sebastianeruizb@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sebastian-ruiz-6512a6179/
