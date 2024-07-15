@@ -1,10 +1,8 @@
 ---
 date: 2018-02-01T10:58:08-04:00
-description: "Animation of the basic principles of DNA transcription, inspired by other biomolecular animations."
-featured_image: "dna.jpg"
+description: "Final Reduced Model to Project Life Expectancy Across 193 Countries"
+featured_image: "Life Expectancy final model.png"
 tags: []
-title: "DNA Transcription Animation"
+title: "Global Life Expectancy Prediction Analysis"
 ---
-I wanted to use my skills with Blender to try and piece together the puzzle of what is happening with DNA transcription. I used what I already knew about DNA transcription from my textbook in addition to other graphics I had found on the internet to come up with a storyboard for the animation. Then I looked at online resources for downloading biomolecules and came across https://www.rcsb.org/ which had resources for every biomolecule I needed. I stitched together the environment with these 3D files, rigged up the camera, and started computing the animation on my computer. I created my own material to represent molecules that had a shininess and emits light to give it that ethereal look. I think this style helps convey that proteins take up space and have a particular shape. 
-
-Check out the animation on Youtube [here](https://youtu.be/K2ase8VqjPs).
+I developed a multiple linear regression model to project life expectancy in 193 countries using socioeconomic and public health indicators from 2000 to 2015. By using data from the Global Health Observatory and the United Nations, I identified key determinants such as adult mortality rates and infant deaths due to HIV/AIDS. The final model, refined through forward stepwise regression, achieved a high adjusted R-squared value of 0.8803, demonstrating its robustness. This model underscores the importance of effective healthcare spending by governments and humanitarian organizations. The insights derived can aid in optimizing resource allocation to improve global health outcomes.
