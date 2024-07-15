@@ -1,11 +1,11 @@
 ---
-date: 2023-03-23T10:58:08-04:00
-description: "Made a website to visualize climate change anywhere in the world."
+date: 2024-07-01T10:58:08-04:00
+description: "Designed an Agent-based model to describe FEMA's flood risk risk pricing model"
 featured_image: "Temporary Storm ABM.png"
 tags: []
-title: "Climate Visualizer Website"
+title: "Agent-based Storm Model"
 ---
-I created a website to analyze climate metrics over time. This is Plotly Dash application that displays climate data over the past 60 years anywhere in the world. I was inspired to create this project as mean global temperatures have increased nearly 2 degrees Fahrenheit in recent history, but it was hard to connect that to the changes in my local climate. The application highlights the change in mean temperature, snowfall, and days of frost year by year, which allows you to see the climate change in your area. I learned a lot about AWS as I used their EC2, DynamoDB, Route53, CloudWatch, and IAM services to make the website possible.
+I developed an agent-based model to analyze the impacts of FEMA's new Risk Rating 2.0 pricing methodology on flood insurance premiums in Florida. By integrating socio-economic data and environmental factors such as sea-level rise and flood hazard risks, the model assesses how these variables influence insurance premiums across different demographics and geographic regions. The simulation highlights the equitable nature of the Risk 2.0 methodology, which considers the cost to rebuild and local flood risks, resulting in higher premiums for more expensive homes and those in high-risk areas. The model's findings align with local reports indicating increased premiums for many households in South Florida, thereby validating the model's accuracy and relevance.
 
 Check out the website [here](http://climate.haydenquilty.com/).
 
