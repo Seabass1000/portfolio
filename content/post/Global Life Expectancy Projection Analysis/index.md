@@ -1,5 +1,5 @@
 ---
-date: 2018-02-01T10:58:08-04:00
+date: 2023-08-01T10:58:08-04:00
 description: "Final Reduced Model to Project Life Expectancy Across 193 Countries"
 featured_image: "Life Expectancy final model.png"
 tags: []
