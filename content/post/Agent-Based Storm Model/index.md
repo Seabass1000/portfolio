@@ -1,7 +1,7 @@
 ---
 date: 2023-03-23T10:58:08-04:00
 description: "Made a website to visualize climate change anywhere in the world."
-featured_image: "climate.jpg"
+featured_image: "Temporary Storm ABM.png"
 tags: []
 title: "Climate Visualizer Website"
 ---
